@@ -34,46 +34,27 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Argonmail
+    description                           : ArgonMail.net is an e-mail service provider that is currently undergoing development and expansion. Currently, we have a limited number of accounts for testing purposes and are not setting up accounts for public use.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Project Goals
+    description                           : We are working on a comprehensive suite of personal calendars, reminder or to-do lists, and e-mail web client, which will be seamlessly integrated with a mobile app.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Break Barriers
+    description                           : Our future focus at ArgonMail is customizability to fit your work flow. Rather than having a traditional e-mail welcome page, we hope to create a more interactive, integrative experience that allows you to send, receive, and consume e-mails in a free-flowing, innovative fashion.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : For all your needs
+    description                           : We know that all the big box brands provide “free” services that are all available in a comprehensive suite. That’s why we are committed to having a complete package before releasing it to the public.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : About us
+    description                           : We are a group of like-minded individuals who wanted to create something different. This project is still very early in its infancy, as most of us have our regular day jobs. As things progress, we will continue to update this website - JESO
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
+  -
 
 
 # Theme Settings
